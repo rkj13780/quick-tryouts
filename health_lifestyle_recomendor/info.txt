@@ -1,0 +1,18 @@
+Hackathon reference links:
+https://arxiv.org/html/2403.13313v1
+https://arxiv.org/pdf/2403.13313v1
+Sign up now! 👉 https://bit.ly/435PY7w
+
+https://cyberiada.github.io/Hippocrates/
+
+crew ai:mhttps://github.com/crewAIInc/crewAI
+
+Register here - https://forms.gle/TfqGmCZ2sik1VYL99
+
+
+https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI
+
+
+promt to code sample https://platform.openai.com/docs/assistants/tools/code-interpreter
+
+https://platform.openai.com/docs/assistants/tools
